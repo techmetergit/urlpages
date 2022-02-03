@@ -57,7 +57,7 @@ apiVersions["0.0.1"] = {
 
   /* Return a link to view the page */
   getViewLink: function(pageData) {
-    return `http://jstrieb.github.io/urlpages/#${b64.encode(pageData)}`;
+    return `https://techmetergit.github.io/urlpages/#${b64.encode(pageData)}`;
   },
 
 }
